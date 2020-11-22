@@ -1,0 +1,5 @@
+E:\Edelweiss Bot\obj\Debug\net5.0\Edelweiss Bot.csprojAssemblyReference.cache
+E:\Edelweiss Bot\obj\Debug\net5.0\Edelweiss Bot.GeneratedMSBuildEditorConfig.editorconfig
+E:\Edelweiss Bot\obj\Debug\net5.0\Edelweiss Bot.AssemblyInfoInputs.cache
+E:\Edelweiss Bot\obj\Debug\net5.0\Edelweiss Bot.AssemblyInfo.cs
+E:\Edelweiss Bot\obj\Debug\net5.0\Edelweiss Bot.csproj.CoreCompileInputs.cache

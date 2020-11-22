@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\prateek.jangir\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\prateek.jangir\\.nuget\\packages"
+    ]
+  }
+}
